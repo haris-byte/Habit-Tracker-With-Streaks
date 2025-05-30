@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/4176d6dd-2931-453a-a5e8-6cc23403cc16)
 # 🌟 Habit Tracker with Streaks
 
 Many people struggle with building and maintaining habits. Whether it's due to a lack of discipline or motivation, staying consistent is hard. The **Habit Tracker with Streaks** helps users build better habits by tracking daily progress, counting streaks, and providing visual feedback on consistency.
@@ -71,5 +70,4 @@ This project is licensed under the MIT License.
 
 ---
 
-Would you like a version with badges, or a live demo section added as well?
 
